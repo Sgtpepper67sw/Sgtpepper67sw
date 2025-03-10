@@ -2,10 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eb2632&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Willian+Ayslan;I'm+20+years+old;I+am+from+Maceió,+AL+and...;+I+like+coding+S2;Enjoy!!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sgtpepper67sw&show_icons=true&count_private=true&hide_border=true&title_color=eb2632&icon_color=eb2632&text_color=c9d1d9&bg_color=0d1117" alt="Willian Ayslan's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sgtpepper67sw&layout=compact&hide_border=true&title_color=eb2632&text_color=eb2632&bg_color=0d1117" />
-</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sgtpepper67sw&&bg_color=0c1014&color=eb2632&line=fa8072&point=eb2632&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
